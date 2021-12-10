@@ -1,4 +1,6 @@
-Kamal Masarweh
+
+List of authors:
+Kamal Masarweh, Mike Mike, John Williams
 
 Covid19 and pediatric respiratory infections
 
@@ -9,3 +11,4 @@ This is the introduction section of the article
 
 -= Acknowledgements =-
 Thanks for the statistics
+
