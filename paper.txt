@@ -1,7 +1,10 @@
 
 List of authors:
 
-Kamal Masarweh, Mike Mike, John Williams, Hans Yanni, Yunis Hassan, Tom Newman
+Kamal Masarweh
+Mike Mike
+John Williams
+Hans Yanni
 
 
 Covid19 and pediatric respiratory infections
